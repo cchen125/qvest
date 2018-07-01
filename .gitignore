@@ -101,6 +101,7 @@ ENV/
 .mypy_cache/
 
 .idea/
-.csv
-.txt
-.pkl
+*.csv
+*.txt
+*.pkl
+.DS_Store
